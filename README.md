@@ -1,5 +1,5 @@
 ## Data Visualization Project: Premier League 20/21 Exploratory Data Overview
-* Project Highlight
+## Project Highlight
 
 ### Features / Columns Explanation
 > Name, as it suggest, it specifies the name of players. <br>
