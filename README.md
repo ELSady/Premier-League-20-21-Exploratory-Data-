@@ -44,3 +44,17 @@
 ![alt text](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/index2.png)
 
 * Manchester City, Liverpool and Chelsea the top 3 teams having the most passes attempted out of any other clubs. Considering how the managers for each of these 3 club set up their team to play possesion based football. The team which can preserve possesion of the ball are the ones controlling the match and very likely to score goals. Manchester City on the top when it come to goals, it is hardly a surprise.
+
+### Conclusion
+* The number of players for each positon is not very balanced, Midfield and Forward ideally should have greater number than Defender.
+* The Age for this English Premier League campaign is very well distributed, majority players are at te age of 26 to 30.
+* Manchester United have the youngest squad.
+* The League has many england players than any other nations, is is reasonable considering it is their local league.
+* Forwards scoring goals as expected.
+* Manchester City have both the most Total Goals and Open Goals.
+* Harry Kane is both Top Goals scorer and Assister.
+* Bruno Fernandes has the highest Penalty converter.
+* Defenders have the most passes attempted and touches of the ball.
+* Aston Villa is the most agresive club, having the most total cards for yellow and red combined.
+* England has very promising young talents.
+
