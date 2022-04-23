@@ -41,7 +41,7 @@
 
 ### Total Passes Attempted for Each Club
 
-![alt text](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/index2.png)
+![alt text](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/index3.png)
 
 * Manchester City, Liverpool and Chelsea the top 3 teams having the most passes attempted out of any other clubs. Considering how the managers for each of these 3 club set up their team to play possesion based football. The team which can preserve possesion of the ball are the ones controlling the match and very likely to score goals. Manchester City on the top when it come to goals, it is hardly a surprise.
 
